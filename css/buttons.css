@@ -1,0 +1,25 @@
+/* BUTTONS */
+
+.btn{
+    display: inline-block;
+    padding: 8px 20px;
+    margin: 0px 10px 10px 0px;
+    border-radius: 25px;
+    background-color: #F79250;
+    color: black;
+    text-decoration: none;
+    border: 2px solid #D14D53;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+  
+}
+
+.btn:hover{
+    background-color: #D14D53;
+    color: white;
+
+}
+
+.btn:active{
+    font-weight: 900;
+}
